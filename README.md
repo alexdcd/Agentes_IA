@@ -156,3 +156,5 @@ Una colección curada de **Increíbles aplicaciones LLM construidas con RAG, Age
 [![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 🌟 **¡No te pierdas futuras actualizaciones! Marca el repositorio como favorito ahora y sé el primero en conocer nuevas y emocionantes aplicaciones LLM con RAG y Agentes de IA.**
+
+La Mafia IA
