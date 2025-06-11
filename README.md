@@ -1,20 +1,3 @@
-<p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
-  </a>
-</p>
-
-<hr/>
-
 # 🌟 Increíbles Aplicaciones LLM
 
 Una colección curada de **Increíbles aplicaciones LLM construidas con RAG, Agentes de IA, Equipos Multiagente, MCP, Agentes de Voz y más.** Este repositorio presenta aplicaciones LLM que utilizan modelos de OpenAI, Anthropic, Google y modelos de código abierto como DeepSeek, Qwen o Llama que puedes ejecutar localmente en tu computadora.
