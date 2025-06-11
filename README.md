@@ -127,7 +127,7 @@ Una colección curada de **Increíbles aplicaciones LLM construidas con RAG, Age
 
 ## 🔄 Última actualización
 
-* **11 de junio de 2025**: Verificación de contribuciones en GitHub.
+* **11 de junio de 2025 - 17:15**: Verificación de la configuración de Git para contribuciones.
 
 ## 🚀 Cómo Empezar
 
