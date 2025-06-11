@@ -125,6 +125,10 @@ Una colección curada de **Increíbles aplicaciones LLM construidas con RAG, Age
 
 *   [🔧 Ajuste Fino de Llama 3.2](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
 
+## 🔄 Última actualización
+
+* **11 de junio de 2025**: Verificación de contribuciones en GitHub.
+
 ## 🚀 Cómo Empezar
 
 1. **Clona el repositorio**
