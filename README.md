@@ -1,5 +1,8 @@
 # 🌟 Increíbles Aplicaciones LLM
 
+> ⚠️ **Nota sobre el repositorio**  
+> Este es un fork traducido y mantenido al español por [La Mafia IA](https://lama.fyi) del repositorio original [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) creado por [Shubham Saboo](https://x.com/Saboo_Shubham_) de [The Unwind AI](https://www.theunwindai.com/). Agradecemos su increíble trabajo y contribución a la comunidad de IA de código abierto.
+
 Una colección curada de **Increíbles aplicaciones LLM construidas con RAG, Agentes de IA, Equipos Multiagente, MCP, Agentes de Voz y más.** Este repositorio presenta aplicaciones LLM que utilizan modelos de OpenAI, Anthropic, Google y modelos de código abierto como DeepSeek, Qwen o Llama que puedes ejecutar localmente en tu computadora.
 
 <p align="center">
