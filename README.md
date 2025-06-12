@@ -157,4 +157,4 @@ Una colección curada de **Increíbles aplicaciones LLM construidas con RAG, Age
 
 🌟 **¡No te pierdas futuras actualizaciones! Marca el repositorio como favorito ahora y sé el primero en conocer nuevas y emocionantes aplicaciones LLM con RAG y Agentes de IA.**
 
-La Mafia IA
+La Mafia IA - 
